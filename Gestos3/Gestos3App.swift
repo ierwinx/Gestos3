@@ -1,10 +1,3 @@
-//
-//  Gestos3App.swift
-//  Gestos3
-//
-//  Created by Erwin Luz León on 20/09/22.
-//
-
 import SwiftUI
 
 @main
